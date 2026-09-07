@@ -1,3 +1,5 @@
+**This implementation has been abandoned at the testing phase. A [new project](https://github.com/BlackAnubis7/anubis-cockpit) has since been created.**
+
 # hardware-cockpit
 Private MSFS2020 hardware cockpit
 
